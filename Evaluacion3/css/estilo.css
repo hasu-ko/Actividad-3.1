@@ -116,7 +116,7 @@ table{
 }
 
 .gallery2:hover{
-    transform: translateY(-5px); /* Cambia la posición en el eje Y al hacer hover */
+    transform: translateY(-5px);
     transform: scale(1.1); 
 
 }
