@@ -52,7 +52,7 @@ footer {
     text-align: center;
     padding: 0px;
     position: fixed;
-    bottom:0;
+    bottom:-1%;
     width: 100%;
     clear: both;
 }
@@ -81,7 +81,7 @@ background-image: url(https://fisiquimicamente.com/blog/2023/03/31/nieve/feature
 }
 
 .caja3 {
-padding: 0px 90px;
+padding: 0px 80px;
 border: 2px solid rgb(0, 0, 0);
 background-color: #5ccb5f;
 background-image: url(https://fisiquimicamente.com/blog/2023/03/31/nieve/featured.jpg);
@@ -232,3 +232,14 @@ a {
     background-color: #5ccb5f;
     color: #fff;
   }
+
+
+  .caja8 {
+    position: static;
+    width: 1000px;
+    height: 840px;
+    padding: 10px 20px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #5ccb5f;
+    background-image: url(https://fisiquimicamente.com/blog/2023/03/31/nieve/featured.jpg);
+}
